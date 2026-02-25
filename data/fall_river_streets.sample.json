@@ -1,0 +1,12 @@
+{
+  "source": "MassGIS Road Centerlines",
+  "municipality": "Fall River",
+  "street_count": 1,
+  "streets": [
+    {
+      "municipality": "Fall River",
+      "street_name_display": "Pleasant St",
+      "street_name_normalized": "PLEASANT ST"
+    }
+  ]
+}
